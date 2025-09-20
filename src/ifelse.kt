@@ -87,4 +87,4 @@ fun main() {
 //    }
 //    if (index in 1..12){
 //        println("номер $index, месяц $month")
-//}
+}
