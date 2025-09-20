@@ -37,13 +37,54 @@ fun main() {
 //    }
 //    val numbers = 1..100
 //    val symbol = 'a'..'z'
-    print("введите ваш уровень: ")
-    val level = readln().toInt()
-    if (level in 1..50) {
-        println("уровень $level соответствует требованиям")
-
-    }
-    else {
-        println("высокий уроыень! вход запрещен")
-    }
-}
+//    print("введите ваш уровень: ")
+//    val level = readln().toInt()
+//    if (level in 1..50) {
+//        println("уровень $level соответствует требованиям")
+//
+//    }
+//    else {
+//        println("высокий уровень! вход запрещен")
+//
+//    print("введите порядковый номер месяца(1-12)")
+//    val index = readln().toInt()
+//    var month = ""
+//    if (index == 1){
+//        month = "январь"
+//    }
+//    else if (index == 2){
+//        month = "февраль"
+//    }
+//    else if (index == 3){
+//        month = "март"
+//    }
+//    else if (index == 4){
+//        month = "апрель"
+//    }
+//    else if (index == 5){
+//        month = "май"
+//    }
+//    else if (index == 6){
+//        month = "июнь"
+//    }
+//    else if (index == 7){
+//        month = "июль"
+//    }
+//    else if (index == 8){
+//        month = "август"
+//    }
+//    else if (index == 9){
+//        month = "сентябрь"
+//    }
+//    else if (index == 10){
+//        month = "октябрь"
+//    }
+//    else if (index == 11){
+//        month = "ноябрь"
+//    }
+//    else if (index == 12){
+//        month = "декабрь"
+//    }
+//    if (index in 1..12){
+//        println("номер $index, месяц $month")
+//}
